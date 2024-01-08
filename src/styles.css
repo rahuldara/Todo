@@ -1,0 +1,44 @@
+#input1{
+    color:black;
+    background-color: ;
+    position:absolute;
+    left: 300px;
+    margin: 30px;
+    width: 180px;
+    height: 40px;
+    border: 1px solid black;
+    font-size: 15px;
+
+}
+#input2{
+    color:black;
+    background-color: ;
+    border: 1px solid black;
+    position:absolute;
+    left: 550px;
+    margin: 30px;
+    width: 180px;
+    height: 40px;
+    font-size: 15px;
+
+}
+#btn{
+    color:black;
+    background-color:#009000 ;
+    border: 1px solid black;
+    position:absolute;
+    left: 780px;
+    margin: 30px;
+    width: 180px;
+    height: 45px;
+    font-size: 20px;
+    color:white;
+    
+
+}
+#head{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    left: 600px;
+    position: relative;
+}
